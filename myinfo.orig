@@ -1,0 +1,7 @@
+# merge-conflict
+<<<<<<< HEAD
+helloooo bhavesh 
+=======
+hello world
+scm merge
+>>>>>>> 8333ffc9bfd4788fcfa7161b5d83ffc8e971f7af
